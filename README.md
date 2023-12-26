@@ -4,6 +4,8 @@ The API is hosted on Heroku at https://cec-starship-api-c3b714038dda.herokuapp.c
 
 The 10 ships available on this API: 
 
+Ebon Hawk: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/Ebon%20Hawk
+
 CR90 Corvette: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/CR90%20Corvette
 CR70 Corvette: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/CR70%20Corvette
 YT-1300 Light Freighter: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-1300%20Light%20Freighter
