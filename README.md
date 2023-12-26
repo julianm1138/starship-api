@@ -7,12 +7,20 @@ The 10 ships available on this API:
 Ebon Hawk: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/Ebon%20Hawk
 
 CR90 Corvette: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/CR90%20Corvette
+
 CR70 Corvette: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/CR70%20Corvette
+
 YT-1300 Light Freighter: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-1300%20Light%20Freighter
+
 YT-2400 Outrider: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-2400%20Outrider
+
 VCX-100 Light Freighter: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/VCX-100%20Light%20Freighter
+
 YT-1930: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-1930
+
 YT-2000: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-2000
+
 YT-2400: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-2400
+
 YT-1760: https://cec-starship-api-c3b714038dda.herokuapp.com/starships/YT-1760
 
